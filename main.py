@@ -17,6 +17,8 @@ jumlah_pemain = 7
 for index_pemain in range(1, jumlah_pemain + 3):  # jumlah_perulangan = 7 - 1 = 6
     print(f'Ayo pemain #{index_pemain}')
 
+print('-' * 20)
+
 jumlah_haji = 10
 for index_haji in range(1, 11):
     print(f'semoga haji mabrur {index_haji}')
